@@ -44,13 +44,15 @@ Example:
 
     Matplotlib for visualization
 
-📷 Sample UI
+## 📷 Sample UI
+
 ![Screenshot 2025-05-28 225502](https://github.com/user-attachments/assets/2bcc6b94-764e-43c7-8e54-75df641df6bd)
 ![Screenshot 2025-05-28 225552](https://github.com/user-attachments/assets/5296c8b3-59b5-4b89-b2ea-bc3df9e1a23d)
 
-📊 Results
+## 📊 Results
 
     Final test accuracy: ~99%
+    
 ## 🚀 How to Run
 
 1. Clone this repository:
