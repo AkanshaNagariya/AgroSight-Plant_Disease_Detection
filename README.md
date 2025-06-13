@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using Deep Learning
+# AgroSight 🌿 Plant Disease Detection using Deep Learning
 
 A deep learning-based web application that detects plant leaf diseases using Convolutional Neural Networks (CNNs). This project was built using TensorFlow and deployed using Streamlit.
 
@@ -46,7 +46,7 @@ Example:
 
 ## 📷 Sample UI
 
-![Screenshot 2025-05-28 225502](https://github.com/user-attachments/assets/2bcc6b94-764e-43c7-8e54-75df641df6bd)
+![image](https://github.com/user-attachments/assets/2255aed8-6261-4cce-b0b1-8c618bcdd90b)
 ![Screenshot 2025-05-28 225552](https://github.com/user-attachments/assets/5296c8b3-59b5-4b89-b2ea-bc3df9e1a23d)
 
 ## 📊 Results
